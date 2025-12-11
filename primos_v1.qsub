@@ -1,0 +1,10 @@
+#!/bin/bash
+#$ -cwd
+#$ -j y
+#$ -S /bin/bash
+
+N=$1
+NP=$2
+
+mpirun -np $NP ./primos_v1 $N
+

@@ -1,0 +1,4 @@
+Resultados da Versão MPI - Saco de Tarefas
+-------------------------------------------
+
+Executando NP=2 N=100000000
